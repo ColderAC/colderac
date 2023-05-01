@@ -7,7 +7,7 @@ I am currently working on my skills as a programmer. I studied at an university 
 
 ![](https://github-readme-stats.vercel.app/api?username=ColderAC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ColderAC&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ColderAC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+username=ColderAC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=ColderAC&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
