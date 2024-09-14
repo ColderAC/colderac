@@ -1,5 +1,5 @@
 # About Me:
-I am currently working on my skills as a programmer. I studied at an university for 3 years before having to leave due to life. I am back at it though looking to grow myself and to collaborate on any projects I can put my skills to.  
+Here is my GITHUB!! I am working on my programming skills in java, python and any other language that pops up on my journey. I will have projects focused in web development, cyber security, simple games(fun stuff) and anything else I might find interesting or intriguing. Well, here goes nothing. Or something. Effort. Here goes some effort.  
 
 
 # 
